@@ -17,7 +17,7 @@
  ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-orange.svg)
  ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
  ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
- ![Begginers Friendly](https://img.shields.io/badge/Begginer%20Friendly%20-Yes-orange)
+ ![Beginners Friendly](https://img.shields.io/badge/Beginner%20Friendly%20-Yes-orange)
  ![GitHub contributors](https://img.shields.io/github/contributors/ZeroOctave/ZeroOctave-Javascript-Projects?color=blue)
  [![GitHub forks](https://img.shields.io/github/forks/ZeroOctave/ZeroOctave-JavaScript-Projects)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/network)
  [![GitHub stars](https://img.shields.io/github/stars/ZeroOctave/ZeroOctave-JavaScript-Projects)](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/stargazers)
@@ -54,7 +54,7 @@
 # About❓
 Getting started with web development? What else would be better than practising it.
 
-So welcome developer. You are at right place.😊
+So welcome developer. You are at the right place.😊
 
 ZeroOctave Javascript Projects provide some awesome web development projects to work upon and enhance your skills.
 
@@ -76,9 +76,9 @@ Happy coding.👍
 
 <table>
 <tbody><tr>
-<td align="center"><a href="https://hacktoberfest.digitalocean.com/"  target="_blank"><img src="assets/Images/hacktober.png" alt="Hacktoberfest" width="300"/><br><sub><b> Hacktoberfest 2021 </b></sub></a></td> </a></td>
+<td align="center"><a href="https://hacktoberfest.digitalocean.com/"  target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzxUuUFuwuTwouTwDseIuzwkLBsDa6Z_0BzYX_x0jpqA&s" alt="Hacktoberfest" width="200"/><br><sub><b> Hacktoberfest 2022 </b></sub></a></td> </a></td>
 
-<td align="center"><a href="https://icc-techsahead.netlify.app/"  target="_blank"><img src="assets/Images/icc.png" alt="ICC" width="300"/><br><sub><b> ICC 2021 </b></sub></a></td> </a></td>
+<td align="center"><a href="https://icc-techsahead.netlify.app/"  target="_blank"><img src="assets/Images/icc.png" alt="ICC" width="200"/><br><sub><b> ICC 2021 </b></sub></a></td> </a></td>
 
 <td align="center"><a href="https://dwoc.io/"  target="_blank"><img src="assets/Images/dwoc.png" alt="DWoC21" width="125"/><br><sub><b> DWOC 2021 </b></sub></a></td> </a></td>
 
@@ -191,6 +191,8 @@ git push -u origin <your_branch_name>
 
 **Kudos to you🎈**
 
+> :information_source: Before contributing, read some important guidelines [here](CONTRIBUTING.md#important-guidelines)
+
 <div id="Help"></div>
 
 # This Will Help🌩️
@@ -262,8 +264,8 @@ git push -u origin <your_branch_name>
 | 166. | [Animated Eye](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/animatedeye.html) | 167. | [Tourist Website](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/Tourist_Website/index.html)| 168. | [Audio Play](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/AudioPlay.html)
 | 169. | [Tearable Cloth](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/tearable-cloth.html)| 170. | [Rain Effects](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/RainEffects.html)| 171. | [Camera Web App](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/camera_app.html)
 | 172. | [Dynamic Picture Frame](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/picture-frame.html)| 173. | [FAQ Collapse](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/FAQcollapse.html)| 174. | [Multiplication Table Generator](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/multiplication-table-generator.html)
-| 175. | [Expense Tracker Calculator](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/trackerExpense/index.html)| 176. | [Check my IP](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/check-my-ip/check-my-ip.html)
-
+| 175. | [Expense Tracker Calculator](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/trackerExpense/index.html)| 176. | [Check my IP](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/check-my-ip/check-my-ip.html) | 177. | [SocialTray](https://rococo-praline-28f4e4.netlify.app/)
+| 178. | [SimplyRecipes](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/SimplyRecipes/) | 179. | [Employee DataBase](https://zerooctave.github.io/ZeroOctave-Javascript-Projects/Public/employeeDatabase.html)
 <br>
 
 <div id="Maintainer"></div>
@@ -272,11 +274,14 @@ git push -u origin <your_branch_name>
 
 <table>
 <tbody><tr>
-<td align="center"><a href="https://github.com/Astrodevil"><img alt="" src="https://avatars.githubusercontent.com/u/73425223?v=4" width="130px;"><br><sub><b> Mr. Ånand </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=Astrodevil" title="Code">🌝💻 </a></td> </a></td>
+<td align="center"><a href="https://github.com/Astrodevil"><img alt="GitHub Profile of Mr. Ånand" src="https://avatars.githubusercontent.com/u/73425223?v=4" width="130px;"><br><sub><b> Mr. Ånand </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=Astrodevil" title="Code">🌝💻 </a></td> </a></td>
 
-<td align="center"><a href="https://github.com/NOiR-07"><img alt="" src="https://avatars.githubusercontent.com/u/73756334?v=4" width="130px;"><br><sub><b> Abhishek Kumar  </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projecs/commits?author=NOiR-07" title="Code">🌝💻 </a></td> </a></td>
+<td align="center"><a href="https://github.com/NOiR-07"><img alt="GitHub Profile of Abhishek Kumar" src="https://avatars.githubusercontent.com/u/73756334?v=4" width="130px;"><br><sub><b> Abhishek Kumar  </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=NOiR-07" title="Code">🌝💻 </a></td> </a></td>
 
-<td align="center"><a href="https://github.com/sreelakshmig009"><img alt="" src="https://avatars.githubusercontent.com/u/81172589?v=4" width="130px;"><br><sub><b> Sreelakshmi G  </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projecs/commits?author=sreelakshmig009" title="Code">🌝💻 </a></td> </a></td>
+<td align="center"><a href="https://github.com/sreelakshmig009"><img alt="GitHub Profile of Sreelakshmi G" src="https://avatars.githubusercontent.com/u/81172589?v=4" width="130px;"><br><sub><b> Sreelakshmi G  </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=sreelakshmig009" title="Code">🌝💻 </a></td> </a></td>
+
+<td align="center"><a href="https://github.com/Anmol-Baranwal"><img alt="GitHub Profile of Anmol Baranwal" src="https://avatars.githubusercontent.com/u/74038190?v=4" width="130px;"><br><sub><b> Anmol Baranwal  </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=Anmol-Baranwal" title="Code">🌝💻 </a></td> </a></td>
+
 </tr>
 </tbody></table>
 
@@ -301,7 +306,7 @@ git push -u origin <your_branch_name>
 
 If you have any feedback or suggestions please reach out to Project - Maintainer.
 
-Or you can create a  <a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues">issue</a> and mention there , which new features or extension can make this Project more good.
+Or you can create a  <a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues">issue</a> and mention there, which new features or extension can make this Project better.
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
